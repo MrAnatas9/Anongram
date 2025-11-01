@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@anongram.com",
+      "username": "SystemAdmin",
+      "access_code": "654321",
+      "is_admin": true,
+      "level": 5,
+      "anoncoin": 1000
+    },
+    {
+      "id": 2,
+      "email": "user1@test.com",
+      "username": "UserOne",
+      "access_code": "111222",
+      "is_admin": false,
+      "level": 1,
+      "anoncoin": 100
+    },
+    {
+      "id": 3,
+      "email": "user2@test.com",
+      "username": "UserTwo",
+      "access_code": "333444",
+      "is_admin": false,
+      "level": 1,
+      "anoncoin": 100
+    },
+    {
+      "id": 4,
+      "email": "user3@test.com",
+      "username": "UserThree",
+      "access_code": "555666",
+      "is_admin": false,
+      "level": 1,
+      "anoncoin": 100
+    }
+  ],
+  "messages": [],
+  "chats": []
+}
